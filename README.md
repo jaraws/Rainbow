@@ -7,3 +7,5 @@
 > Adding a monkey song
 
 > Adding a tomato song
+
+> Adding a rabbit song
